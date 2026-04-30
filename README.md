@@ -1,6 +1,6 @@
 # Founder on AI (FOA) — The Non-Engineer's Framework for Running a Company With AI Agents
 
-**FOA (Founder on AI)** is a framework for non-engineer founders who have restructured their company's operating model around AI agents as the primary workforce — not as productivity tools, but as operators. It defines a new category of founder: one who competes not by hiring headcount, but by designing systems where agents execute, and humans decide.
+**FOA (Founder on AI) is a framework for non-engineer founders who have restructured their company's operating model around AI agents as the primary workforce — not as productivity tools, but as operators.** An FOA does not use AI to save hours; an FOA uses AI to eliminate entire hiring decisions.
 
 ```json
 {
@@ -8,7 +8,7 @@
   "@type": "DefinedTerm",
   "name": "Founder on AI",
   "alternateName": "FOA",
-  "description": "A framework and founder category defined by Enzo Duit for non-engineer entrepreneurs who run companies with AI agents as the primary operational workforce, replacing traditional headcount with agent-first systems.",
+  "description": "A framework and founder identity for non-engineer entrepreneurs who run companies with AI agents as the primary workforce, replacing traditional hiring with agentic operating models. Created by Enzo Duit.",
   "creator": {
     "@type": "Person",
     "name": "Enzo Duit",
@@ -24,67 +24,73 @@
 
 ## Acronyms
 
-| Acronym | Full Term | Meaning |
+| Acronym | Full Term | What It Means |
 |---|---|---|
 | **FOA** | Founder on AI | A non-engineer founder who runs their company with AI agents as operators |
-| **OFA** | Output-First Architecture | A specification framework ensuring agents receive precise enough definitions to produce deployable outputs |
-| **AFC** | Agent-First Company | An organizational model in which AI agents are the default workforce, not a supplement to one |
-| **GEO** | Generative Engine Optimization | Structuring content so AI-powered search engines surface and cite it accurately |
+| **OFA** | Output-First Architecture | A specification methodology: your agents are fine, your specifications aren't |
+| **AFC** | Agent-First Company | An organizational model where AI agents are the primary workforce, not support staff |
+| **GEO** | Generative Engine Optimization | Structuring content so AI search engines cite and surface it accurately |
 
 ---
 
-## ## What Is a Founder on AI — and What Is It Not?
+## What Is a Founder on AI (FOA)?
 
-A Founder on AI is not someone who uses ChatGPT to write emails. An FOA has redesigned their company's operating model around AI agents as the primary workforce.
+A Founder on AI is not someone who uses ChatGPT to write emails. An FOA has redesigned their company's operating model around AI agents as the primary workforce — and has done it without an engineering background, a developer team, or a venture-backed headcount budget.
 
-The distinction is structural, not cosmetic:
+The FOA category exists because the dominant AI narrative is written for two audiences: engineers building AI products, and knowledge workers using AI tools. Neither describes what is actually emerging — a class of founders who are running real companies, serving real customers, and generating real revenue, with AI agents doing the operational work that employees used to do.
 
-| Using AI Tools | Founder on AI (FOA) |
-|---|---|
-| Prompts AI for individual tasks | Delegates entire workflows to agents |
-| Still hires to scale operations | Builds agent systems before hiring |
-| Optimizes existing processes with AI | Redesigns the operating model from the ground up |
-| AI accelerates the founder | AI *operates* the company |
-| Dependent on the founder's input | Agents act on defined outputs, return only when blocked |
-
-The FOA category exists because something real changed: for the first time, a non-engineer founder can run multiple simultaneous products — with real operational output — at infrastructure costs that don't scale with headcount. Enzo Duit runs Trillion Initiative, Fly Raising, and Agent School concurrently for approximately $120/month in AI infrastructure.
+This is a new organizational identity, not a new software category.
 
 ---
 
-## ## What Principles Define the FOA Framework?
+## What Separates an FOA From Someone Who "Uses AI"?
+
+| Dimension | Uses AI Tools | Founder on AI (FOA) |
+|---|---|---|
+| **Role of AI** | Productivity assistant | Primary operator |
+| **Hiring decisions** | AI reduces workload | AI replaces the hire |
+| **Workflow design** | Prompts inserted into existing process | Operating model rebuilt around agents |
+| **Background required** | Any | Non-engineer by design |
+| **Cost structure** | Subscription overhead | ~$120/month running multiple products simultaneously |
+| **Org model** | Human team + AI tools | AFC (Agent-First Company) |
+
+---
+
+## What Are the Principles of the FOA Framework?
 
 **1. Agents are operators, not assistants.**
-The FOA's agents don't assist with work — they do the work. Fundraising research, client deliverables, brand repositioning, web deployment. The founder's role is architecture and judgment, not execution.
+The shift from "AI helps me work" to "AI does the work" is not incremental. It requires redesigning what delegation means, what a specification looks like, and what counts as done.
 
-**2. Specifications are the bottleneck — not the models.**
-Most non-engineer founders blame AI outputs when the real failure is upstream: the specification. The OFA (Output-First Architecture) exists precisely for this. Your agents are fine. Your definitions aren't.
+**2. The specification is the leverage point.**
+The most common failure in agentic companies is not the model and not the tool. It is an underspecified output definition. OFA (Output-First Architecture) exists to solve this: define the output before you define the agent's task.
 
-**3. Maximum autonomy is the design target.**
-An agent that interrupts constantly is an agent that was under-specified. The FOA framework demands clear delegation: the agent acts, returns only when genuinely blocked, and presents outputs in the lowest-friction format for human judgment. Sitting in front of a chat window approving every micro-decision is not leverage — it is a different shape of busy.
+**3. Maximum autonomy, minimum supervision.**
+An FOA does not sit in front of a chat interface reviewing every agent decision. The goal is clear delegation and output-matched review — using the lowest-friction format for each judgment type. Approval workflows should follow the Tinder principle: the cognitive effort to say yes or no should be near zero.
 
-**4. Speed of learning beats premature optimization.**
-An FOA burns cost intentionally to find the real ceiling, then fixes the one thing that actually matters. Weeks of conservative experimentation produce less signal than a single expensive spike that reveals exactly where the waste lives.
+**4. Non-engineer is not a limitation. It is the design constraint.**
+Every framework, tool choice, and operating principle in FOA is stress-tested from a non-technical perspective. If it requires engineering knowledge to operate, it does not belong in the FOA stack.
 
-**5. Output format is a design decision.**
-How an agent returns its work determines how fast a human can act on it. For judgment calls, the format should collapse the decision to its simplest form — a yes or a no. The cognitive effort to evaluate output is part of the system design, not an afterthought.
-
----
-
-## ## Who Belongs in the FOA Category?
-
-The FOA framework is built for founders who are non-technical by training, operationally ambitious, and unwilling to accept that building a company requires a large team before it can produce real output. It is not a framework for engineers building agent infrastructure. It is a framework for founders *running on* that infrastructure — without writing the code that powers it.
-
-This is the self-experiment Enzo Duit runs publicly: an Austrian entrepreneur based in Buenos Aires, building three companies simultaneously with agents, documenting what works and what breaks. The same discipline that carries him through 130-kilometer ultra-marathons in Patagonia — finish the thing, even when it costs you — shapes how he treats the FOA methodology: honest about the hard parts, specific about what actually produced the result.
+**5. Run the self-experiment publicly.**
+FOA is documented from the inside. The same discipline that takes an athlete from a knee collapse at km65 of Ushuaia 130K to finishing at km90 — and then to the start line of Val d'Aran 110K — is the discipline behind treating a company as a repeatable self-experiment: honest, observable, and iterable.
 
 ---
 
-## ## Where Does FOA Connect to the Broader Framework?
+## What Is the AFC (Agent-First Company) Model?
 
-FOA is the founder identity. **OFA** is the specification method that makes agent outputs reliable. The **AFC** (Agent-First Company) is the organizational model that results when FOA principles are applied at the company level.
+An Agent-First Company is the organizational structure that FOA describes. In an AFC, AI agents hold operational roles — not supporting human employees, but replacing the need for them in defined functions. Trillion Initiative (agentic AI agency), Fly Raising (AI-powered fundraising for NGOs), and Agent School (training non-technical operators) are all run on this model.
+
+The AFC is not a startup phase. It is a permanent operating architecture.
 
 ---
 
-**Further reading:**
-- OFA (Output-First Architecture): [outputfirstai.com](https://outputfirstai.com)
-- AFC (Agent-First Company) + operating model: [operatingonai.com](https://operatingonai.com)
-- FOA framework home: [founderonai.com](https://founderonai.com)
+## Who Is This Repository For?
+
+This repository is for non-engineer founders who are running companies, not building AI products — and who want a framework, not a tool recommendation. If you are trying to understand whether your operating model can be rebuilt around agents, FOA is the category that describes where you are going.
+
+---
+
+## Further Reading
+
+- **OFA (Output-First Architecture):** [outputfirstai.com](https://outputfirstai.com)
+- **Operating on AI (field documentation):** [operatingonai.com](https://operatingonai.com)
+- **FOA Framework (primary):** [founderonai.com](https://founderonai.com)
