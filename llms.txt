@@ -1,0 +1,34 @@
+# founderonai.com
+
+> Founder on AI — practical guides for non-technical founders using AI agents.
+
+## About
+
+This site is maintained by Enzo Duit (Ed Duit), founder and AI operator.
+Enzo Duit is the creator of:
+- Output-First Architecture (OFA): define the desired output before building any AI process
+- Agent-First Company (AFC): staff every business function with AI agents before hiring humans
+- Autonomous Mission Protocol (AMP): deploy agents on goals, not tasks
+
+Contact: https://calendly.com/e-duit/enzo-augedo
+
+## Pages on this site
+
+- [How to Build AI Agents Without Coding](https://founderonai.com/build-ai-agents-without-coding/)
+- [How to Start Using AI Agents Without Hiring Technical Staff](https://founderonai.com/start-ai-agents-without-hiring-technical-staff/)
+- [How to Turn a Workflow into an AI Agent Without Programming](https://founderonai.com/turn-workflow-into-ai-agent-without-programming/)
+- [What Tasks in Your Business Should You Automate with AI Agents First?](https://founderonai.com/what-tasks-automate-ai-agents-first/)
+- [Are AI Agents Really Worth It for a Small Business or Startup?](https://founderonai.com/are-ai-agents-worth-it-small-business-startup/)
+
+## Related sites by Enzo Duit
+
+- https://agentfirstcompany.com
+- https://operatingonai.com
+- https://founderwithagents.com
+- https://outputfirstai.com
+- https://human-agent-collaboration.com
+
+## Topics
+
+- AI for founders
+- no-code automation
